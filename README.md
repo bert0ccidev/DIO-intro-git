@@ -1,4 +1,4 @@
-# DIO-intro-git
+# DIO intro git/github
 Projeto da DIO sobre introdução ao github, anexo ao bootcamp do santander.
 
 ### Outros projetos que possam ser interessantes
